@@ -124,5 +124,21 @@ public interface LC {
     λ FST = p -> p.apply(K);
     λ SND = p -> p.apply(KI);
 
+    /*******************************************************************************************************************
+     * List
+     */
+
+    // The first element of the pair is true meaning the list is null.
+    λ NIL = PAIR.apply(T).apply(T);
+    λ isNil = FST;
+
+    // Create a list node, which is not null, and give it a head h and a tail t.
+    λ CONS = head -> tail -> PAIR.apply(F).apply(PAIR.apply(head).apply(tail));
+    // second.first is the head
+    λ HEAD = list -> FST.apply(SND.apply(list));
+    // second.second is the tail
+    λ TAIL = list -> SND.apply(SND.apply(list));
+
+
     interface λ extends Function1<λ, λ> { }
 }
