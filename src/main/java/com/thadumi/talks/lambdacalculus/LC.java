@@ -125,5 +125,4 @@ public interface LC {
     λ SND = p -> p.apply(KI);
 
     interface λ extends Function1<λ, λ> { }
-
 }
