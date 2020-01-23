@@ -14,4 +14,4 @@ using only functions.
 * [Highlights of the History of the Lambda-Calculus ](https://ieeexplore.ieee.org/document/4640786)
 * [Haskell vs. Ada vs. C++ vs. Awk vs. ...An Experiment in Software Prototyping Productivity](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.368.1058&rep=rep1&type=pdf)
 * [Recursive Lambda Functions the Y-Combinator](https://sookocheff.com/post/fp/recursive-lambda-functions/)
-
+* [An Experiment using Haskell to Prototype "Geometric Region Servers" for Navy Command And Control](http://www.cs.yale.edu/publications/techreports/tr1031.pdf)
