@@ -2,6 +2,9 @@
 Examples of combinators in Java for understanding how primitive data types but also data structures could be defined
 using only functions.
 
+# Slide deck
+The slides used during the last workshops can be downloaded from [here](https://docs.google.com/presentation/d/12Mu2ciVGxuGt0dOK5pMVBj6OprihUzLeS8Zr4vYeL70/edit?usp=sharing)
+
 # Resources
 ###Books
 * [To Mock a Mocking Bird: Including an Amazing Adventure in Combinatory Logic](https://www.amazon.it/Mock-Mocking-Bird-Including-Combinatory-ebook/dp/B00A1P096Y/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1579689062&sr=8-1)
